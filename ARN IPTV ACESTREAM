@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 name="M+ PLUS FHD --> NEW ERA",M+ PLUS FHD --> NEW ERA
+#EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png", group-title="MOVISTAR", Movistar Plus+
 http://127.0.0.1:6878/ace/getstream?infohash=603aff9cb59ce9d8acf2611b1d7d454c3ede30b5
 
 #EXTINF:-1 name="M+ PLUS FHD --> NEW ERA",M+ PLUS FHD --> NEW ERA

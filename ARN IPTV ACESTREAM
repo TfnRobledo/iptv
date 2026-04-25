@@ -22,7 +22,7 @@ http://127.0.0.1:6878/ace/getstream?infohash=eb85b6eddb906e9745384586c02b5f061bf
 http://127.0.0.1:6878/ace/getstream?infohash=b0999d6facfbae2944b9c7bba442eeea9cd9d4b2
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", group-title="MOVISTAR LA LIGA", M+ LaLiga TV
-http://127.0.0.1:6878/ace/getstream?infohash=b4585c27169685d34bfdf43471f0603c8200cff6
+http://127.0.0.1:6878/ace/getstream?infohash=af458073c3096293a4dea9f369d4f308e7125bd6
 
 #EXTINF:-1, tvg-logo="https://i.postimg.cc/T2s7q5Pd/m-laliga.png", group-title="MOVISTAR LA LIGA", M+ LaLiga TV 2
 http://127.0.0.1:6878/ace/getstream?infohash=7daa4368176694ca4ed46f44f006b6181dbc6bd7
